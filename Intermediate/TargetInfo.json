@@ -1,14 +1,4 @@
 {
 	"Targets": [
-		{
-			"Name": "yourmom2",
-			"Path": "D:\\UnrealCS328\\CS328Project\\Source\\yourmom2.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "yourmom2Editor",
-			"Path": "D:\\UnrealCS328\\CS328Project\\Source\\yourmom2Editor.Target.cs",
-			"Type": "Editor"
-		}
 	]
 }

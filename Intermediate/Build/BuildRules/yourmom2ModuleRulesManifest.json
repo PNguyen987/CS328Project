@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\UnrealCS328\\CS328Project\\Source\\yourmom2\\yourmom2.Build.cs",
-		"D:\\UnrealCS328\\CS328Project\\Source\\yourmom2.Target.cs",
-		"D:\\UnrealCS328\\CS328Project\\Source\\yourmom2Editor.Target.cs"
+		"C:\\Users\\seito\\Documents\\Unreal\\New folder\\Source\\yourmom2\\yourmom2.Build.cs",
+		"C:\\Users\\seito\\Documents\\Unreal\\New folder\\Source\\yourmom2.Target.cs",
+		"C:\\Users\\seito\\Documents\\Unreal\\New folder\\Source\\yourmom2Editor.Target.cs"
 	],
 	"EngineVersion": "4.25.3"
 }
